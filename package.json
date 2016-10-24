@@ -11,9 +11,7 @@
     "angular",
     "input"
   ],
-  "scripts": {
-    "precommit": "grunt lint"
-  },
+  "scripts": {},
   "main": "dist/angular-datepicker.min.js",
   "repository": {
     "type": "git",
